@@ -1,6 +1,12 @@
 h1 {
 
     text-align: center;
-    color:blueviolet;
+    color:gainsboro;
     text-transform: : uppercase;
+}
+
+body {
+     background-color: black;
+
+
 }
