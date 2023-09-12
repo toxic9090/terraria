@@ -1,3 +1,13 @@
+*  {
+margin: 0;
+padding: 0;
+
+}
+img {
+width: 100%;
+
+}
+
 h1 {
 
     text-align: center;
@@ -7,10 +17,7 @@ h1 {
 
 body {
     background: #636363;
-    
-
-
-}
+    }
 
 div{
 background-color: white;
