@@ -20,7 +20,8 @@ height: 5%;
 }
 
 nav li {
-    
+    display: inline;
+    padding: 20px;
 }
 
 #banner {
