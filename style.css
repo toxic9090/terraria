@@ -6,8 +6,6 @@ padding: 0;
 
 #banner {
 
-}
-img {
 width: 100%;
 
 }
@@ -16,7 +14,7 @@ h1 {
 
     text-align: center;
     color:gainsboro;
-    text-transform: : uppercase;
+    text-transform:uppercase;
 }
 
 body {
