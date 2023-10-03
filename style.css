@@ -10,6 +10,19 @@ height: 5%;
 
 }
 
+.header-pai{
+ position: relative;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+
+
+}
+
+nav li {
+    
+}
+
 #banner {
 
 width: 100%;
