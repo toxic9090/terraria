@@ -64,7 +64,13 @@
     font-size: 35px;
     text-align: center;
     }
-
+h2{
+    color:aliceblue;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 40px;
+    padding: 1%;
+}
     .servico{
 display: flex; 
 width: 100vw;
